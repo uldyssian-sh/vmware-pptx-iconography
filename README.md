@@ -1,7 +1,8 @@
 # VMware PPTX Iconography
 
-**Author:** LT  
-**License:** Copyright © 2022 VMware, Inc. All Rights Reserved.
+**Author:** `LT`
+**Version:** `1.1`
+**License:** `Copyright © 2022 VMware, Inc. All Rights Reserved.`
 
 ---
 
