@@ -25,6 +25,8 @@ VMware PowerPoint icons are available as vector art to use in PowerPoint present
 
 For your convenience, individual VMware PowerPoint icons are available in the appendix of official decks.  
 
+<img width="1645" height="877" alt="01" src="https://github.com/user-attachments/assets/5dc59550-e33d-4d08-b74e-12118dca1b7d" />
+
 ---
 
 ## Icon Categories
@@ -53,6 +55,8 @@ The presentation includes the following types of icons:
 - Industries  
 - Other Products  
 - vSAN Related Icons  
+
+<img width="1724" height="957" alt="02" src="https://github.com/user-attachments/assets/9057f216-6459-47c8-ae1e-162b29af9925" />
 
 ---
 
