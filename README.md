@@ -105,3 +105,12 @@ All other marks and names mentioned herein may be trademarks of their respective
 This repository **does not include VMware icon files**. All rights to the icons are **owned by VMware, Inc.**  
 
 You may **view and use the documentation in this repository** for informational purposes, but **redistribution or modification of VMware icon assets is prohibited** without explicit permission from VMware.
+
+---
+
+Icons are also available here:
+
+VMware icon Year 2022 on Power Point Deck:
+https://www.slideshare.net/slideshow/vmware-icon-year-2022-on-power-point-deck/271018679
+
+The document provides guidelines for the use of VMware PowerPoint icons, detailing how to scale, recolor, and align them in presentations. It categorizes icons into different themes such as devices, applications, networking, security, and industries, while emphasizing the importance of maintaining brand consistency. Additionally, resources for accessing more icons are mentioned, including a dedicated appendix and the VMware Brand Central website.
