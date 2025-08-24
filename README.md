@@ -68,7 +68,7 @@ Due to copyright restrictions, **the icons themselves are not included in this r
 All VMware icons are © 2022 VMware, Inc. All Rights Reserved.  
 They remain the intellectual property of VMware and cannot be redistributed here.  
 
-If you need the official icon pack, please download it directly from VMware’s published sources:  
+If you need the icon pack, please download it directly from published sources:  
 - [VMware Icon Year 2022 on PowerPoint Deck](https://www.slideshare.net/slideshow/vmware-icon-year-2022-on-power-point-deck/271018679)  
 
 For the most up-to-date and licensed assets, check [VMware Brand Central](https://brand.vmware.com/) (access may require VMware credentials).
