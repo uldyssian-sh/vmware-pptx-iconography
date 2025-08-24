@@ -1,9 +1,5 @@
 # VMware PPTX Iconography
 
-**Author:** `LT`
-**Version:** `1.1`
-**License:** `Copyright © 2022 VMware, Inc. All Rights Reserved.`
-
 ---
 
 ## Overview
@@ -60,57 +56,16 @@ The presentation includes the following types of icons:
 
 ---
 
-## Usage
+## VMware Icons
 
-1. Refer to **[VMware Brand Central](https://www.vmware.com/brand)** to download the official icons.  
-2. Open the `.pptx` files in **Microsoft PowerPoint** or compatible software.  
-3. Copy and paste the desired icons into your presentation.  
-4. Resize proportionally – all icons are vector-friendly.  
+This project references the official VMware icon set.  
+Due to copyright restrictions, **the icons themselves are not included in this repository**.  
 
----
+All VMware icons are © 2022 VMware, Inc. All Rights Reserved.  
+They remain the intellectual property of VMware and cannot be redistributed here.  
 
-## Contribution
+If you need the official icon pack, please download it directly from VMware’s published sources:  
+- [VMware Icon Year 2022 on PowerPoint Deck](https://www.slideshare.net/slideshow/vmware-icon-year-2022-on-power-point-deck/271018679)  
 
-If you would like to suggest improvements or additional icon guidance:
+For the most up-to-date and licensed assets, check [VMware Brand Central](https://brand.vmware.com/) (access may require VMware credentials).
 
-1. Fork this repository.  
-2. Edit the README or add documentation.  
-3. Submit a pull request for review.  
-
-> ⚠️ **Do not upload VMware icon files** to this public repository without explicit permission from VMware.
-
----
-
-## Notes
-
-- These icons are **not included in this repository** and are **protected by VMware copyright**.  
-- For official diagrams and branding, always refer to [VMware Documentation](https://docs.vmware.com) and Broadcom resources.  
-
----
-
-## Copyright & Trademarks
-
-Copyright © 2022 VMware, Inc. All rights reserved.  
-
-This product is protected by U.S. and international copyright and intellectual property laws.  
-VMware products are covered by one or more patents listed at [https://www.vmware.com/go/patents](https://www.vmware.com/go/patents).  
-
-VMware is a registered trademark or trademark of VMware, Inc. and its subsidiaries in the United States and/or other jurisdictions.  
-All other marks and names mentioned herein may be trademarks of their respective companies.  
-
----
-
-## License
-
-This repository **does not include VMware icon files**. All rights to the icons are **owned by VMware, Inc.**  
-
-You may **view and use the documentation in this repository** for informational purposes, but **redistribution or modification of VMware icon assets is prohibited** without explicit permission from VMware.
-
----
-
-Icons are also available here:
-
-VMware icon Year 2022 on Power Point Deck:
-https://www.slideshare.net/slideshow/vmware-icon-year-2022-on-power-point-deck/271018679
-
-The document provides guidelines for the use of VMware PowerPoint icons, detailing how to scale, recolor, and align them in presentations. It categorizes icons into different themes such as devices, applications, networking, security, and industries, while emphasizing the importance of maintaining brand consistency. Additionally, resources for accessing more icons are mentioned, including a dedicated appendix and the VMware Brand Central website.
