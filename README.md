@@ -6,21 +6,21 @@
 
 ## 🔍 Overview
 
-This repository documents VMware / Broadcom product icons in PowerPoint (PPTX) format.  
+This repository documents VMware / Broadcom product icons in PowerPoint (PPTX) format.
 Use these icons in your presentations, solution diagrams, or technical documentation to stay consistent with VMware branding.
 
-> ⚠️ Note: The actual icon files are *not* included in this public repo.  
+> ⚠️ Note: The actual icon files are *not* included in this public repo.
 > For official VMware icons, please visit [VMware Brand Central](https://www.vmware.com).
 
 ---
 
 ## 📦 Updated PowerPoint Iconography
 
-- 🎨 Icons are provided as vector graphics suitable for PowerPoint.  
-- 🎨 Recolor using the **Color Fill tool** with VMware Brand palette.  
-- 🚫 **Do not** use colors outside of the template palette.  
-- 🚫 **Do not** add outlines or distort icon shapes.  
-- 📐 Resize proportionally (hold `Shift` while dragging).  
+- 🎨 Icons are provided as vector graphics suitable for PowerPoint.
+- 🎨 Recolor using the **Color Fill tool** with VMware Brand palette.
+- 🚫 **Do not** use colors outside of the template palette.
+- 🚫 **Do not** add outlines or distort icon shapes.
+- 📐 Resize proportionally (hold `Shift` while dragging).
 - ⚖️ Keep all icons same size & alignment when displaying side by side.
 
 For your convenience, individual icons are referenced in the appendices of official VMware decks.
@@ -60,10 +60,10 @@ These icons are grouped by theme:
 
 ## 🛠 Usage Instructions
 
-1. 🔗 Visit [VMware Brand Central](https://www.vmware.com) to obtain the official icons.  
-2. 📂 Open the `.pptx` files using PowerPoint or a compatible editor.  
-3. 📋 Copy & paste desired icon(s) into your presentation.  
-4. 📐 Resize proportionally. Use `Shift` to maintain aspect ratio.  
+1. 🔗 Visit [VMware Brand Central](https://www.vmware.com) to obtain the official icons.
+2. 📂 Open the `.pptx` files using PowerPoint or a compatible editor.
+3. 📋 Copy & paste desired icon(s) into your presentation.
+4. 📐 Resize proportionally. Use `Shift` to maintain aspect ratio.
 
 ---
 
@@ -71,8 +71,8 @@ These icons are grouped by theme:
 
 Want to help improve this guide or add icon advice?
 
-1. 🍴 Fork this repository.  
-2. ✏️ Update the README or add relevant documentation.  
+1. 🍴 Fork this repository.
+2. ✏️ Update the README or add relevant documentation.
 3. 🔀 Submit a pull request for review.
 
 > ⚠️ Do *not* upload VMware icon files to this public repository without explicit permission from VMware.
@@ -81,23 +81,23 @@ Want to help improve this guide or add icon advice?
 
 ## ⚠️ Notes
 
-- 🚫 Icon assets are *not* included here; VMware retains ownership and copyright.  
-- 📚 For official diagrams, refer to VMware documentation and Broadcom resources.  
+- 🚫 Icon assets are *not* included here; VMware retains ownership and copyright.
+- 📚 For official diagrams, refer to VMware documentation and Broadcom resources.
 
 ---
 
 ## 📝 Copyright & Legal
 
-- 🏢 All VMware icon files remain the property of VMware, Inc.  
-- © Copyright © 2022 VMware, Inc. All Rights Reserved.  
-- ™ VMware is a registered trademark. Other marks are the property of their owners.  
+- 🏢 All VMware icon files remain the property of VMware, Inc.
+- © Copyright © 2022 VMware, Inc. All Rights Reserved.
+- ™ VMware is a registered trademark. Other marks are the property of their owners.
 - 🔗 See [VMware Patents](https://www.vmware.com/go/patents) for legal info.
 
 ---
 
 ## 📜 License
 
-📖 Documentation in this repository is for informational purposes only.  
+📖 Documentation in this repository is for informational purposes only.
 🚫 Redistribution or modification of VMware icon assets is **prohibited** without explicit permission.
 
 ---
