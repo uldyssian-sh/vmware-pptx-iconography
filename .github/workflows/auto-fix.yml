@@ -30,7 +30,7 @@ jobs:
         find . -name "*.sh" -exec shellcheck --format=diff {} \; | patch -p1 2>/dev/null || true
     
     - name: Create PR if changes
-      uses: peter-evans/create-pull-request@v5
+      uses: peter-evans/create-pull-request@v7
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         commit-message: 'auto-fix: security and quality improvements'
