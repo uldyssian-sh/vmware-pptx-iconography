@@ -144,7 +144,7 @@ jobs:
         echo "✅ Manifest generated"
         
     - name: Upload build artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: vmware-pptx-iconography-build
         path: build/
