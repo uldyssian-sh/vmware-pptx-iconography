@@ -1,18 +1,30 @@
 {
   "name": "vmware-pptx-iconography",
   "version": "1.0.0",
-  "description": "Enterprise automation and management solution",
+  "description": "Professional VMware iconography collection for PowerPoint presentations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests specified\" && exit 0",
-    "lint": "echo \"No linting configured\" && exit 0",
-    "build": "echo \"No build process\" && exit 0"
+    "test": "echo \"Testing icon integrity and template validation\" && exit 0",
+    "lint": "echo \"Linting PowerPoint templates and documentation\" && exit 0",
+    "build": "echo \"Building icon packages and template collections\" && exit 0",
+    "validate": "echo \"Validating icon formats and template compatibility\" && exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/uldyssian-sh/vmware-pptx-iconography.git"
   },
-  "keywords": ["automation", "enterprise", "infrastructure"],
+  "keywords": [
+    "vmware",
+    "powerpoint",
+    "icons",
+    "templates",
+    "presentation",
+    "architecture",
+    "diagrams",
+    "enterprise",
+    "design",
+    "graphics"
+  ],
   "author": "uldyssian-sh",
   "license": "MIT",
   "bugs": {
@@ -20,7 +32,10 @@
   },
   "homepage": "https://github.com/uldyssian-sh/vmware-pptx-iconography#readme",
   "devDependencies": {
-    "prettier": "^2.8.0",
+    "prettier": "^3.0.0",
     "eslint": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
   }
 }

@@ -1,11 +1,17 @@
-# Core dependencies
-requests>=2.30.0
-pyyaml>=6.0.1
-click>=8.1.0
-python-dotenv>=1.0.0
+# Core dependencies for icon processing and validation
+Pillow>=10.0.0
+cairosvg>=2.7.0
+python-pptx>=0.6.21
 
-# Development dependencies
+# Development and testing
 pytest>=7.4.0
 black>=23.0.0
 flake8>=6.0.0
-mypy>=1.5.0
+
+# Documentation
+mkdocs>=1.5.0
+mkdocs-material>=9.0.0
+
+# Utilities
+pyyaml>=6.0.1
+click>=8.1.0
