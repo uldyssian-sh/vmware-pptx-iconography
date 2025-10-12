@@ -3,18 +3,13 @@ name: Deploy
 on:
   push:
     branches: [main, master]
-  workflow_dispatch:
-  release:
-    types: [published]
+  pull_request:
+    branches: [main, master]
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+  security-events: write
+  actions: read
 
 jobs:
   build-site:
