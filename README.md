@@ -179,3 +179,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 ---
 
 **Made with ❤️ by [uldyssian-sh](https://github.com/uldyssian-sh)**
+
+## Icon Library
+- Comprehensive VMware product icons
+- PowerPoint template collection
+- Brand-compliant designs
