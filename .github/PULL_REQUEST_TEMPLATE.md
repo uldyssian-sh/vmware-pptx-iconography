@@ -27,7 +27,6 @@ Brief description of changes made in this pull request.
 - **Features:** <!-- Animations, print-ready, etc. -->
 
 ### Documentation (if applicable)
-- **Files Updated:** <!-- List documentation files changed -->
 - **Content Type:** <!-- Installation, usage, examples -->
 
 ## Quality Checklist

@@ -14,4 +14,3 @@ mkdocs-material>=9.0.0
 
 # Utilities
 pyyaml>=6.0.1
-click>=8.1.0# Updated 20251109_123819
