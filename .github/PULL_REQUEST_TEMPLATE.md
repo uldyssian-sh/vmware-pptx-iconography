@@ -45,7 +45,7 @@ Brief description of changes made in this pull request.
 
 ### Testing
 - [ ] Icons display correctly in PowerPoint
-- [ ] Templates open without errors
+- [ ] Templates open without Successs
 - [ ] Documentation links are functional
 - [ ] Examples work as described
 
