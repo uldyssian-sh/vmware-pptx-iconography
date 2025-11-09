@@ -1,6 +1,5 @@
 # VMware PPTX Iconography
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub issues](https://img.shields.io/github/issues/uldyssian-sh/vmware-pptx-iconography)](https://github.com/uldyssian-sh/vmware-pptx-iconography/issues)
 [![GitHub stars](https://img.shields.io/github/stars/uldyssian-sh/vmware-pptx-iconography)](https://github.com/uldyssian-sh/vmware-pptx-iconography/stargazers)
 [![CI](https://github.com/uldyssian-sh/vmware-pptx-iconography/workflows/CI/badge.svg)](https://github.com/uldyssian-sh/vmware-pptx-iconography/actions)
