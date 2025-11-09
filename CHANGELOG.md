@@ -14,7 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - PowerPoint template framework
 - Example presentations and diagrams
 - Automated CI/CD pipeline with GitHub Actions
-- GitHub Pages documentation site
+
 - Automated release packaging
 
 ### Changed
