@@ -1,5 +1,11 @@
 # VMware PPTX Iconography
 
+[![License](https://img.shields.io/github/license/uldyssian-sh/vmware-pptx-iconography?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](#)
+[![Languages](https://img.shields.io/github/languages/count/uldyssian-sh/vmware-pptx-iconography?style=flat-square)](#)
+[![Size](https://img.shields.io/github/repo-size/uldyssian-sh/vmware-pptx-iconography?style=flat-square)](#)
+[![Security Scan](https://img.shields.io/badge/security-scanned-green?style=flat-square)](#)
+
 [![GitHub issues](https://img.shields.io/github/issues/uldyssian-sh/vmware-pptx-iconography)](https://github.com/uldyssian-sh/vmware-pptx-iconography/issues)
 [![GitHub stars](https://img.shields.io/github/stars/uldyssian-sh/vmware-pptx-iconography)](https://github.com/uldyssian-sh/vmware-pptx-iconography/stargazers)
 [![CI](https://github.com/uldyssian-sh/vmware-pptx-iconography/workflows/CI/badge.svg)](https://github.com/uldyssian-sh/vmware-pptx-iconography/actions)
@@ -32,6 +38,12 @@ Professional VMware iconography collection for PowerPoint presentations, designe
 ### Usage
 ```bash
 # Clone repository
+
+[![License](https://img.shields.io/github/license/uldyssian-sh/vmware-pptx-iconography?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](#)
+[![Languages](https://img.shields.io/github/languages/count/uldyssian-sh/vmware-pptx-iconography?style=flat-square)](#)
+[![Size](https://img.shields.io/github/repo-size/uldyssian-sh/vmware-pptx-iconography?style=flat-square)](#)
+[![Security Scan](https://img.shields.io/badge/security-scanned-green?style=flat-square)](#)
 git clone https://github.com/uldyssian-sh/vmware-pptx-iconography.git
 cd vmware-pptx-iconography
 
