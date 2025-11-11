@@ -6,6 +6,12 @@
 [![Size](https://img.shields.io/github/repo-size/uldyssian-sh/vmware-pptx-iconography?style=flat-square)](#)
 [![Security Scan](https://img.shields.io/badge/security-scanned-green?style=flat-square)](#)
 
+[![License](https://img.shields.io/github/license/uldyssian-sh/vmware-pptx-iconography?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](#)
+[![Languages](https://img.shields.io/github/languages/count/uldyssian-sh/vmware-pptx-iconography?style=flat-square)](#)
+[![Size](https://img.shields.io/github/repo-size/uldyssian-sh/vmware-pptx-iconography?style=flat-square)](#)
+[![Security Scan](https://img.shields.io/badge/security-scanned-green?style=flat-square)](#)
+
 [![GitHub issues](https://img.shields.io/github/issues/uldyssian-sh/vmware-pptx-iconography)](https://github.com/uldyssian-sh/vmware-pptx-iconography/issues)
 [![GitHub stars](https://img.shields.io/github/stars/uldyssian-sh/vmware-pptx-iconography)](https://github.com/uldyssian-sh/vmware-pptx-iconography/stargazers)
 [![CI](https://github.com/uldyssian-sh/vmware-pptx-iconography/workflows/CI/badge.svg)](https://github.com/uldyssian-sh/vmware-pptx-iconography/actions)
@@ -183,9 +189,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file.
 
 ## 📈 Project Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/uldyssian-sh/vmware-pptx-iconography)
-![GitHub last commit](https://img.shields.io/github/last-commit/uldyssian-sh/vmware-pptx-iconography)
-![GitHub contributors](https://img.shields.io/github/contributors/uldyssian-sh/vmware-pptx-iconography)
 
 ---
 
